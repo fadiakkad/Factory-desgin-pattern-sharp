@@ -1,6 +1,6 @@
 ﻿namespace FactoryDesign
 {
-    class prgram
+    class program
     {
 
             static void Main(string[] args)
