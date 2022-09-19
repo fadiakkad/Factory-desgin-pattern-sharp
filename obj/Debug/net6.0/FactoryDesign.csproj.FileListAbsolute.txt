@@ -1,0 +1,15 @@
+C:\Users\44774\Desktop\FactoryDesign\bin\Debug\net6.0\FactoryDesign.exe
+C:\Users\44774\Desktop\FactoryDesign\bin\Debug\net6.0\FactoryDesign.deps.json
+C:\Users\44774\Desktop\FactoryDesign\bin\Debug\net6.0\FactoryDesign.runtimeconfig.json
+C:\Users\44774\Desktop\FactoryDesign\bin\Debug\net6.0\FactoryDesign.dll
+C:\Users\44774\Desktop\FactoryDesign\bin\Debug\net6.0\FactoryDesign.pdb
+C:\Users\44774\Desktop\FactoryDesign\obj\Debug\net6.0\FactoryDesign.csproj.AssemblyReference.cache
+C:\Users\44774\Desktop\FactoryDesign\obj\Debug\net6.0\FactoryDesign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44774\Desktop\FactoryDesign\obj\Debug\net6.0\FactoryDesign.AssemblyInfoInputs.cache
+C:\Users\44774\Desktop\FactoryDesign\obj\Debug\net6.0\FactoryDesign.AssemblyInfo.cs
+C:\Users\44774\Desktop\FactoryDesign\obj\Debug\net6.0\FactoryDesign.csproj.CoreCompileInputs.cache
+C:\Users\44774\Desktop\FactoryDesign\obj\Debug\net6.0\FactoryDesign.dll
+C:\Users\44774\Desktop\FactoryDesign\obj\Debug\net6.0\refint\FactoryDesign.dll
+C:\Users\44774\Desktop\FactoryDesign\obj\Debug\net6.0\FactoryDesign.pdb
+C:\Users\44774\Desktop\FactoryDesign\obj\Debug\net6.0\FactoryDesign.genruntimeconfig.cache
+C:\Users\44774\Desktop\FactoryDesign\obj\Debug\net6.0\ref\FactoryDesign.dll
